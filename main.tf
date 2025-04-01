@@ -1,4 +1,3 @@
-sudo -i
 provider "aws" {
 region = "us-east-1"
 }
